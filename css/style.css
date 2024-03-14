@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Righteous&display=swap');
+
+body {
+    background-color: aquamarine;
+}
+
+#p1 {
+    color: #000093bd;
+    text-align: justify;
+    letter-spacing: 2px;
+    text-decoration-style: dotted;
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 150%;
+    font-family: "Ojuju", sans-serif;
+    font-size: 20px;
+
+}
+
+h3 {
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-thickness: 5px;
+    text-decoration-color: rgb(0, 13, 255);
+    letter-spacing: 5px;
+    font-size: 20px;
+
+}
+
+#ac {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-transform: uppercase;
+
+}
+
+#as {
+    text-align: left;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+#ad {
+    text-align: right;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-variant: small-caps;
+}
